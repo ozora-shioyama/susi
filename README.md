@@ -3,5 +3,5 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
                                                          
 susi_kind.ipynb: 寿司の種類判別の機械学習 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-susi_collapse.ipynb: 寿司が崩れているか否か(品質)確認の機械学習 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+susi_collapse.ipynb: 寿司が崩れているか否か(品質チェック)の機械学習 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 main.ipynb: 回転寿司店を想定した簡単なシステム
